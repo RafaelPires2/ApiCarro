@@ -1,6 +1,6 @@
 # CRUD criado em NodeJS com mySQL
 
-## API criada para fins de estudo, usando NodeJs, mySQL e algumas dependências que serão listadas abaixo.
+### API criada para fins de estudo, usando NodeJs, mySQL e algumas dependências que serão listadas abaixo.
 
 - NodeJS
 - mySQL
